@@ -5,3 +5,4 @@ Svakheter ved nettsiden:
 - Ingen restriksjoner på passord, kan ha passord "1" f.eks
 - Man kan redigere venner sine brukere
 - Man kan legge ut innlegg på venner sine brukere
+- Når man trykker på venners brukere logges man inn på den brukeren automatisk
