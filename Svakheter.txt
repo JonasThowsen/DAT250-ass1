@@ -6,3 +6,4 @@ Svakheter ved nettsiden:
 - Man kan redigere venner sine brukere
 - Man kan legge ut innlegg på venner sine brukere
 - Når man trykker på venners brukere logges man inn på den brukeren automatisk
+- Man kan adde hvem som helst, ingen forespørsel eller lignende
