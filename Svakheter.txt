@@ -1,0 +1,7 @@
+Svakheter ved nettsiden: 
+- Kan lage bruker uten å bekrefte passord
+- Kan lage bruker selv om man skriver feil passord ved bekreft passord
+- Står at user er created om man lager flere brukere med samme brukernavn, men man kan ikke logge inn med brukeren.
+- Ingen restriksjoner på passord, kan ha passord "1" f.eks
+- Man kan redigere venner sine brukere
+- Man kan legge ut innlegg på venner sine brukere
